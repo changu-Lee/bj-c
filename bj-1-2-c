@@ -1,0 +1,11 @@
+//A+B
+#include<stdio.h>
+int A, B, sum;
+int main(void)
+{
+	scanf("%d%d",&A, &B);
+    sum=A+B;
+	printf("%d", sum);
+		return 0;
+}
+//scanf를 통해 입력값을 받고, printf를 출력한다
