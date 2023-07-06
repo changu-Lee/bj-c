@@ -1,0 +1,9 @@
+//Hello World
+#include <stdio.h>
+int main()
+{
+    printf("Hello World!");
+    return 0;
+}
+//printf를 통한 간단한 출력 가능
+//Hello World의 대소문자 구분**
